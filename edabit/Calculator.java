@@ -1,3 +1,5 @@
+package edabit;
+
 public class Calculator {
     public static int power(int x, int y){
         int sum = x*y;

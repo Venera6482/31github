@@ -1,3 +1,5 @@
+package edabit;
+
 public class EdabitConverter {
     public int intoSeconds(int minutes){
         int result = minutes*60;

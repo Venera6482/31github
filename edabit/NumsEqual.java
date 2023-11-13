@@ -1,3 +1,5 @@
+package edabit;
+
 public class NumsEqual {
     public boolean isSameNum(int y, int x){
         if (y==x){

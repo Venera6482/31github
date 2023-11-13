@@ -1,3 +1,5 @@
+package edabit;
+
 public class isSeven {
     public static boolean method(int x){
         if (x==7){

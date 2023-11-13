@@ -1,3 +1,5 @@
+package edabit;
+
 public class NextNumber {
     public int increase(int x){
             return ++x;

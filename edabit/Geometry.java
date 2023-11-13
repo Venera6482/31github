@@ -1,3 +1,5 @@
+package edabit;
+
 public class Geometry {
     public static int perimeter(int length, int width){
         int formula=(length+width)*2;
