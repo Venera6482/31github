@@ -1,6 +1,6 @@
 package edabit;
 
-public class isSeven {
+public class IsSeven {
     public static boolean method(int x){
         if (x==7){
             System.out.printf(x+" is equal to 7");
